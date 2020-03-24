@@ -9,4 +9,5 @@ package com.itheima.domain;
  * @Version V1.0
  */
 public class User {
+    private Integer id;
 }
